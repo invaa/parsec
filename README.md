@@ -1,4 +1,4 @@
-Imdb parser project.
+Imdb parser project (available as a REST API).
 
 CAUTION!!! Use According to the Imdb Conditions of Use ONLY.
 
